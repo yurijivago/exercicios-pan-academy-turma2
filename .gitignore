@@ -1,5 +1,6 @@
 .gitignore
 .idea/
 out/
+pastateste/
 src/bagunca/
 exercicios-pan-academy-turma2.iml
